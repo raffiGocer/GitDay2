@@ -8,4 +8,6 @@ public class Sales {
     // ....
 
     //...
+
+    // updated sales page
 }
